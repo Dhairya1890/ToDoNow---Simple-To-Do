@@ -23,23 +23,30 @@
 <li> AI Summarizer and action planner </li>
 </ul>
 
-<h3> Installation </h3>
+## ⚙️ Installation
 
-<p> 1. Clone Repository </p>
-`git clone "https://github.com/Dhairya1890/ToDoNow---Simple-To-Do"`
-<br>
-<p> 2. Create a Virtual Environment </p>
-`python -m venv venv`
-<br>
-<p> 3. Install Requirements </p>
-`pip install -r requirements.txt`
-<br>
-<p> 4. Start the server </p>
-`python app.py`
-<br>
+1.  **Clone Repository**
+    ```bash
+    git clone "[https://github.com/Dhairya1890/ToDoNow---Simple-To-Do](https://github.com/Dhairya1890/ToDoNow---Simple-To-Do)"
+    ```
 
-<h3> Contributions are Welcomed! </h3>
+2.  **Create a Virtual Environment**
+    ```bash
+    python -m venv venv
+    ```
 
-<h3> Licenses - Made under MIT license </h3>
+3.  **Install Requirements**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-<h3> (Dhairya Sharma)[https://github.com/Dhairya1890] </h3>
+4.  **Start the server**
+    ```bash
+    python app.py
+    ```
+
+## 🤝 Contributions are Welcomed!
+
+## 📜 License - Made under MIT license
+
+[Dhairya Sharma](https://github.com/Dhairya1890)
